@@ -24,12 +24,7 @@ I specialize in:
 ## 🧠 Core Expertise
 
 <center>
-<p>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2piM2x1cWQ4enRpbzhtOWg1bDF4bXVuOWtlcnhra2lhMjN1dnUwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="150" />
-</p>
-</center>
 
-<p>
 
 <img src="https://img.shields.io/badge/Project%20Management-003B57?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Open%20Journal%20Systems-OJS-blue?style=for-the-badge" />
