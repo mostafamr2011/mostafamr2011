@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Dr. Mostafa Mahmoud  
+# 👋 Mr. Mostafa Mahmoud  
 ### Technical & Scientific Projects Manager  
 
 🌍 Saudi Arabia | 🧠 15+ Years Experience | 📚 Academic Publishing Expert  
