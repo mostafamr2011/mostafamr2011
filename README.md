@@ -67,12 +67,6 @@ I work at **Khibrat Tibah Office for Research & Studies** in Al Madinah Al Munaw
 ### 🏛️ [مكتب خبرات طيبة](https://khibrattaibah.com)
 مكتب متخصص في البحوث والدراسات العلمية بالمدينة المنورة
 
-### 📘 [دليل الفهرسة الدولية للمجلات](https://mostafamr2011.github.io/Journals)
-دليل عملي: كيف تصل مجلتك للعالمية والفهرسة الدولية
-
-### 🎓 [برنامج بناء الهوية الرقمية الأكاديمية](https://mostafamr2011.github.io/Course)
-برامج الباحثين الدوليين — مكتب خبرات طيبة
-
 ---
 
 ## 🛠️ المهارات والاهتمامات | Skills & Interests
