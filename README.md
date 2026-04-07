@@ -1,141 +1,125 @@
 <div align="center">
 
-# 👋 Mr. Mostafa Mahmoud  
-### Technical & Scientific Projects Manager  
+# مصطفى محمود محمود | Mustafa Mahmoud
 
-🌍 Saudi Arabia | 🧠 15+ Years Experience | 📚 Academic Publishing Expert  
+**أمين تحرير مجلة تدبر · أخصائي إداري · مكتب خبرات طيبة للبحوث والدراسات**
 
-<img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=22&center=true&vCenter=true&width=650&lines=Technical+Projects+Leadership;Scientific+Publishing+Systems;OJS+Implementation+Specialist;Digital+Transformation+Strategist;Research+Infrastructure+Builder" />
+*Editorial Secretary — Tadabbur Journal · Administrative Specialist · Khibrat Tibah Office for Research & Studies*
 
-</div>
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--0991--3443-green?style=flat&logo=orcid)](https://orcid.org/0009-0008-0991-3443)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-مصطفى_محمود-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D9%85%D8%AD%D9%85%D9%88%D8%AF-b889ab107/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-teal?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Moustafa-Mahmoud-25)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?style=flat&logo=google-scholar)](https://scholar.google.com/citations?user=ghQmYo8AAAAJ&hl=ar)
+[![Web of Science](https://img.shields.io/badge/Web_of_Science-NTR--5559--2025-orange?style=flat)](https://www.webofscience.com/wos/author/record/NTR-5559-2025)
 
----
-
-# 🚀 About Me
-
-I am a **Technical and Scientific Projects Manager** with over **15 years of leadership experience** in managing complex digital, academic, and institutional projects.
-
-My expertise bridges:
-
-✔ Technology Leadership  
-✔ Scientific Publishing Systems  
-✔ Research Infrastructure Development  
-✔ Digital Transformation Strategy  
-
-I focus on building **sustainable scientific ecosystems**, optimizing academic workflows, and enabling research institutions to achieve international standards.
-
----
-
-# 🧠 Core Expertise
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,linux" />
-
-</div>
-
-### 🎯 Professional Strengths
-
-- End-to-End Technical Project Management  
-- Academic Journal Development & Indexing Readiness  
-- Open Journal Systems (OJS) Implementation & Customization  
-- Digital Transformation for Research Institutions  
-- Scholarly Workflow Automation Experience  
-- Executive Administration & Scientific Secretariat Leadership  
-
----
-
-# 🏆 Experience Highlights
-
-✔ 15+ Years in technical & scientific project leadership  
-✔ Full lifecycle management of academic journal platforms  
-✔ Led digital transformation initiatives for research organizations  
-✔ Extensive experience in international indexing standards  
-✔ Managed large-scale scientific publishing workflows  
-
----
-
-# 🛠 Professional Domains
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Project%20Management-0A66C2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Open%20Journal%20Systems-OJS-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Academic%20Publishing-6A1B9A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Digital%20Transformation-00897B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Research%20Management-AD1457?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Strategic%20Planning-2E7D32?style=for-the-badge" />
+📍 المدينة المنورة، المملكة العربية السعودية · Al Madinah Al Munawwarah, KSA
 
 </div>
 
 ---
 
-# 🌐 Professional Projects & Platforms
+## 🙋 نبذة مختصرة | About
 
-## 📚 Current Institutional Platforms
+بفضل الله، أعمل منذ أكثر من **17 عاماً** في مجالات متعددة تجمع بين الشريعة والتقنية والإدارة، أسعى فيها للإسهام في خدمة العلم ونشره، والجمع بين الأصالة الشرعية وأدوات العصر الرقمي.
 
-- Tadabbur Journal  
-  https://tadabburmag.sa  
+أعمل حالياً في **مكتب خبرات طيبة للبحوث والدراسات** بالمدينة المنورة، وهو الجهة التي أستقبل من خلالها التعاون والأعمال المهنية.
 
-- Khibrat Tayyibah Research & Studies Office  
-  https://khibrattaibah.com  
+I work at **Khibrat Tibah Office for Research & Studies** in Al Madinah Al Munawwarah. All professional inquiries and collaboration requests are welcome through the office.
 
----
-
-## 🧩 Previous Scientific Platforms Managed
-
-- Tebyan Journal for Qur’anic Studies  
-  https://journal.tebyan.org.sa  
-
-- Prince Sattam University Journal for Sharia & Arabic Studies  
-  https://jsis.psau.edu.sa  
+🌐 **[khibrattaibah.com](https://khibrattaibah.com/)**
 
 ---
 
-# 🤝 Professional & Volunteer Work
+## 💼 الوضع الوظيفي الحالي | Current Positions
 
-- Scientific Project Manager — Al-Naba Al-Azeem Endowment Foundation  
-- Volunteer — Students Care Association (Madinah)  
-
----
-
-# 🧩 Professional Focus Areas
-
-- Scientific journal digital infrastructure  
-- International indexing compliance systems  
-- Academic workflow automation  
-- Research data management solutions  
-- Institutional knowledge platforms  
-- API integration for scholarly publishing  
+| الدور | الجهة | منذ |
+|---|---|---|
+| أمين تحرير | [مجلة تدبر](https://tadabburmag.sa) — ISSN: 1658-9718 | أبريل 2016 |
+| أخصائي إداري | مكتب خبرات طيبة للبحوث والدراسات | فبراير 2022 |
+| طالب ماجستير | جامعة المدينة العالمية — قسم القرآن وعلومه | سبتمبر 2023 |
 
 ---
 
-# 🎓 Professional Identity
+## 📚 المنشورات والتقارير العلمية | Publications & Reports
 
-### 🆔 ORCID Profile
+منشورات موثقة بـ DOI عبر Crossref في مجلة تدبر:
 
-https://orcid.org/0009-0008-0991-3443  
+| العنوان | DOI | السنة |
+|---|---|---|
+| تقرير عن رسالة: تصور مقترح لمنهجية تدارس القرآن الكريم | [10.62488/1720-0010-020-008](https://doi.org/10.62488/1720-0010-020-008) | 2026 |
+| تقرير رسالة: دلالات التراكيب وأثرها في التدبر — سورة يوسف | [10.62488/1720-0010-019-006](https://doi.org/10.62488/1720-0010-019-006) | 2025 |
+| تقرير عن مؤتمر مقاصد القرآن الكريم — جامعة الشارقة | [10.62488/1720-0010-019-008](https://doi.org/10.62488/1720-0010-019-008) | 2025 |
+| تقرير عن كتاب "نقطة التحوُّل" — عنايتك بالقرآن | [10.62488/1720-009-018-008](https://doi.org/10.62488/1720-009-018-008) | 2025 |
+| تقرير عن مؤتمر "هدايات القرآن في بناء الإنسان" | [10.62488/1720-009-018-009](https://doi.org/10.62488/1720-009-018-009) | 2025 |
+| تقرير عن ملتقى طلبة كليات القرآن الكريم — القيم الإنسانية | [10.62488/1720-008-016-010](https://doi.org/10.62488/1720-008-016-010) | 2024 |
+| تقرير عن كتاب: متن التمهير في أصول التفسير وشرحه | [10.62488/1720-008-016-009](https://doi.org/10.62488/1720-008-016-009) | 2024 |
+| تقرير تعريفي بكتاب: مذكرة تدبر القرآن الكريم | [10.62488/1720-008-015-007](https://doi.org/10.62488/1720-008-015-007) | 2023 |
+| تقرير: مجلة تدبر مسيرة خمس سنوات (2016–2021) | [10.62488/1720-005-010-008](https://doi.org/10.62488/1720-005-010-020) | 2021 |
 
 ---
 
-# 📫 Contact
+## 🗂️ المشاريع | Projects
+
+### 📖 [مجلة تدبر — Tadabbur Journal](https://tadabburmag.sa)
+مجلة علمية محكمة متخصصة في الدراسات القرآنية · ISSN 1658-9718
+حاصلة على أكثر من 20 فهرسة وتصنيفاً دولياً ومحلياً
+
+### 🏛️ [مكتب خبرات طيبة](https://khibrattaibah.com)
+مكتب متخصص في البحوث والدراسات العلمية بالمدينة المنورة
+
+### 📘 [دليل الفهرسة الدولية للمجلات](https://mostafamr2011.github.io/Journals)
+دليل عملي: كيف تصل مجلتك للعالمية والفهرسة الدولية
+
+### 🎓 [برنامج بناء الهوية الرقمية الأكاديمية](https://mostafamr2011.github.io/Course)
+برامج الباحثين الدوليين — مكتب خبرات طيبة
+
+---
+
+## 🛠️ المهارات والاهتمامات | Skills & Interests
+
+```
+النشر الأكاديمي     │ OJS · DOAJ · Scopus · Crossref · DOI · Google Scholar
+الإدارة والتحرير    │ إدارة مجلات محكمة · سياسات النشر · التحكيم العلمي · COPE
+تطوير الويب        │ WordPress · Hostinger · Terminal/SSH · Python
+الذكاء الاصطناعي   │ Claude · Gemini · Grok · Perplexity · API Integration
+التصميم            │ Photoshop · Illustrator · InDesign · Canva
+الإدارة            │ إدارة مشاريع (PMP) · قيادة فرق · Power BI · Excel
+الشريعة والقرآن    │ الدراسات القرآنية · علوم القرآن · تدبر القرآن
+```
+
+---
+
+## 🎓 التعليم | Education
+
+- 🎓 **ماجستير قيد الدراسة** — القرآن وعلومه · جامعة المدينة العالمية، ماليزيا (2023–الآن)
+- 📜 **بكالوريوس الشريعة** — القرآن وعلومه · كلية المسجد النبوي الشريف (2017–2021)
+- 💻 **بكالوريوس نظم المعلومات الإدارية** — معهد العباسية · معادل جامعة عين شمس (2006–2009)
+- 📖 **إجازة في القرآن الكريم** — رواية حفص وشعبة عن عاصم (2022)
+
+---
+
+## 🔗 حضور علمي رقمي | Academic Presence
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--0991--3443-green?logo=orcid&style=for-the-badge)](https://orcid.org/0009-0008-0991-3443)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Moustafa_Mahmoud-teal?logo=researchgate&style=for-the-badge)](https://www.researchgate.net/profile/Moustafa-Mahmoud-25)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-blue?logo=google-scholar&style=for-the-badge)](https://scholar.google.com/citations?user=ghQmYo8AAAAJ&hl=ar)
+[![WoS](https://img.shields.io/badge/Web_of_Science-NTR--5559--2025-orange?style=for-the-badge)](https://www.webofscience.com/wos/author/record/NTR-5559-2025)
+
+---
+
+## 📬 التواصل والتعاون | Contact & Collaboration
+
+**استقبال الأعمال والتعاون المهني يتم عبر:**
+
+🏛️ **مكتب خبرات طيبة للبحوث والدراسات**
+🌐 [khibrattaibah.com](https://khibrattaibah.com/)
+📧 mostafamr2011@gmail.com
+📞 +966 550 628 402
+
+---
 
 <div align="center">
 
-<a href="mailto:info@tadabburmag.sa">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://tadabburmag.sa">
-<img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## ✨ Building Sustainable Scientific & Digital Knowledge Ecosystems ✨
+*"وَقُل رَّبِّ زِدْنِي عِلْمًا"*
 
 </div>
